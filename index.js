@@ -1,0 +1,1 @@
+document.querySelector("h1").innerHTML="Ham hai rahi pyar ke phir milenge chalte chalte.";
